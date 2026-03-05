@@ -3,6 +3,7 @@
 Tools and community projects around **Lightnovel Crawler** — a CLI utility for downloading web novels and generating ebooks in multiple formats.
 
 - Main project: **[lightnovel-crawler](https://github.com/lncrawl/lightnovel-crawler)**  
+- Web app: **[lightnovel-crawler](https://github.com/lncrawl/lncrawl-web)**  
 - Contact: **lncrawl@pm.me**
 
 ---
