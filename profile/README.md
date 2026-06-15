@@ -17,13 +17,4 @@ Lightnovel Crawler (often invoked as `lncrawl`) helps you:
 - Organize metadata (title, author, cover, volumes/chapters)
 - Export to common formats (e.g., EPUB and others depending on your setup)
 
----
-
-## Repositories
-
-### ⭐ lightnovel-crawler
-
-The core crawler and ebook generator.
-
-https://github.com/lncrawl/lightnovel-crawler
 
